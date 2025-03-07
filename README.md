@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @sina8787
-- 👀 I’m Game Developer
+Hi, I’m sina8787
+I’m Game Developer 
+
 
 <!---
 sina8787/sina8787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
